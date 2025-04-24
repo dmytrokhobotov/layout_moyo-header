@@ -38,7 +38,7 @@ nav {
 }
 
 .nav-list li + li {
-  margin-left: 20;
+  margin-left: 20px;
 }
 
 .nav-link {
